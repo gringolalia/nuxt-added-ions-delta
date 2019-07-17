@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=News+Cycle|Material+Icons');
+@import url('https://use.fontawesome.com/releases/v5.8.1/css/all.css');
+@import url('https://unpkg.com/@ionic/core@latest/css/ionic.bundle.css');
+
+:root {
+  font-family: 'News Cycle', sans-serif;
+  font-weight: 300 !important;
+
+  --ion-color-primary: #607D8B;
+  --ion-color-primary-rgb: 56, 128, 255;
+  --ion-color-primary-contrast: #ffffff;
+  --ion-color-primary-contrast-rgb: 255, 255, 255;
+  --ion-color-primary-shade: #3171e0;
+  --ion-color-primary-tint: #4c8dff;
+
+}
+
+ion-toolbar {
+  --background: #607d8b;
+  --color: white;
+}
+
+body, html {
+  font-family: 'News Cycle', sans-serif !important;
+  font-weight: 300 !important;
+  margin: 0x;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'News Cycle', sans-serif !important;
+  font-weight: 300 !important;
+}
+
+i, .material-icons, .fa, .fab, .far, .fas {
+  vertical-align: middle;
+}
+
+.dignity {
+  font-family: 'News Cycle', sans-serif;
+  font-weight: 300 !important;
+}
