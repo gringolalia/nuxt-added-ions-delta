@@ -34,7 +34,6 @@ ion-app#app
               ion-label.ion-margin-start
                 | Cations
 
-
             ion-item(button href='/findex')
               ion-icon(slot='start' name='construct')
 
